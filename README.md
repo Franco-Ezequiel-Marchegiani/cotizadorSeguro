@@ -5,8 +5,12 @@ el costo total de las opciones seleccionadas.
 
 El proyecto cuenta, en el sector javascript, con un proceso utilizando prototipos, y con otro utilizando clases.
 
+Link: https://cotizadorsegurosjs.netlify.app/
+
 
 As its name implies, it is an insurance quote that provides the following information: "Brand" (3) "Year" (23) and "type of insurance" (2) calculates the total amount and shows on screen
 the total cost of the selected options.
 
 The project has, in the javascript sector, a process using prototypes, and another using classes.
+
+Link: https://cotizadorsegurosjs.netlify.app/
